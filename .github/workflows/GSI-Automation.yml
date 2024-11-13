@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://master.dl.sourceforge.net/project/pixelextended/Lavender/PixelExtended_lavender-11-20201121-2012-OFFICIAL.zip
-  ROM_NAME: PixelExtended
+  ROM_URL: https://file-to-link-bot-nx-a4a8eaae5135.herokuapp.com/dl/673460db551bc1f73b4bdf84
+  ROM_NAME: GENERIC
   TZ: America/Bahia
 
 jobs:
